@@ -1,0 +1,56 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+ul,li,a{
+
+    text-decoration: none;
+    list-style-type: none;
+    color: #fff;
+
+
+}
+.menu{
+    display: flex;
+   
+}
+
+
+.cabecalho{
+    height: 35px;
+    display: flex;
+    background-color:rgb(252, 192, 206);
+    align-items: center;
+    border-radius: 20px;
+  }
+  
+  .titulo{
+      font-size: 30px;
+      font-family: cursive;
+      color: rgb(80, 112, 80);
+  
+  }
+
+  body{
+    background-color: rgb(255, 218, 223);
+
+  }
+  
+  .secao{
+      background-color: rgb(80, 112, 80);
+      border-radius: 20px;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      
+  }
+
+  .fonte{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+  }
+
+  img{
+    border-radius: 20px;
+  }
